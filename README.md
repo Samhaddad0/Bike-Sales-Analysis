@@ -47,7 +47,6 @@ To answer this, the analysis focuses on:
 | Exploratory Analysis | Pivot Tables, descriptive statistics     |
 | Visualization        | Excel Dashboard design & interactivity   |
 | Business Analysis    | Segmentation, hypothesis testing         |
-| Storytelling         | Insight-driven recommendations           |
 | Future Work          | Predictive modeling in Python / Power BI |
 
 📌 Future Enhancements
